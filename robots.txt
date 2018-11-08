@@ -1,3 +1,0 @@
-User-agent: *
-Crawl-delay: 7200
-Host: tbd.camp
